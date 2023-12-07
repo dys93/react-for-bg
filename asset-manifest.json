@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/first-react/static/js/main.ad58b604.js",
-    "index.html": "/first-react/index.html",
-    "main.ad58b604.js.map": "/first-react/static/js/main.ad58b604.js.map"
+    "main.js": "/react-for-bg/static/js/main.ad58b604.js",
+    "index.html": "/react-for-bg/index.html",
+    "main.ad58b604.js.map": "/react-for-bg/static/js/main.ad58b604.js.map"
   },
   "entrypoints": [
     "static/js/main.ad58b604.js"
