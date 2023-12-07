@@ -1,6 +1,11 @@
 import {useParams} from "react-router-dom"
 import { useEffect, useState } from "react"
 
+/*
+    영화 상세 정보 노출 
+    userParam으로 받아온 id값을 이용해 api 요청
+*/
+
 function Detail() {
 const [loading, setLoading] = useState(true);
 const [movie, setMovie] = useState();    
